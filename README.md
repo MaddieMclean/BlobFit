@@ -1,5 +1,7 @@
 # BlobFit
-Android application built in Unity using C#, makes use of the inbuilt GPS and Accelerometer.
+Android application built in Unity using C#, makes use of the inbuilt GPS and Accelerometer. IDE used was Visual Studio.
+
+Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop video games and simulations for computers, consoles and mobile devices. 
 
 BlobFit is a virtual pet game, inspired by Tamagotchi, that uses gamification techniques to encourage children to exercise on a regular basis. BlobFit uses the inbuilt GPS and accelerometer functions of an android phone device to track movement over the course of a day and uses this information to feed a pet 'Blob' and dictate its mood. 
 
